@@ -1,12 +1,7 @@
-# Simple Interest Calculator
-
-This project calculates simple interest given principal, rate, and time.
-
-## Formula
-Simple Interest = (Principal * Rate * Time) / 100
-
-## Usage
-Run the shell script `simple-interest.sh` to compute simple interest.
-
-## Author
-Vigraman Padmanaban
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
